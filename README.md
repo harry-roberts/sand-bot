@@ -2,6 +2,13 @@
 
 My attempt to create a copy of the "Sisyphus Table" by Bruce Shapiro
 
+To do:
+1. Physical motion mechanism
+2. Motion code
+3. Final electronics/code
+   - e.g. WiFi control, lighting
+4. Casing
+
 ## Background
 
 The Sisyphus Table is a kinetic art piece that uses a ball bearing to draw patterns in a bed of sand. The ball bearing is controlled by a motion mechanism underneath the table, and so it appears as if the ball is moving around on its own. My goal is to create one of these with the main aims being low cost and mainly 3D-printed parts. Mine will be a desktop sized version rather than a full table.
